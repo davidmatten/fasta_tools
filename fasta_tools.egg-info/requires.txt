@@ -1,0 +1,7 @@
+Bio
+
+[test]
+coverage
+
+[dev]
+check-manifest

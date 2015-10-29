@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: fasta-tools
+Version: 0.0.1
+Summary: A few small tools for working with fasta files.
+Home-page: https://github.com/davidmatten/fasta_tools
+Author: David Matten
+Author-email: dmatten@gmail.com
+License: Apache
+Description: # fasta_tools
+        a few tools for dealing with fasta files
+        
+Keywords: fasta bioinformatics computational biology
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4

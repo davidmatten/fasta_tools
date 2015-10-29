@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.py
+data/eg.fasta
+fasta_tools.egg-info/PKG-INFO
+fasta_tools.egg-info/SOURCES.txt
+fasta_tools.egg-info/dependency_links.txt
+fasta_tools.egg-info/entry_points.txt
+fasta_tools.egg-info/requires.txt
+fasta_tools.egg-info/top_level.txt
